@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Caesar"
+            android:id="@+id/action_caesar"
+            android:orderInCategory="100"/>
+
+    <item android:title="Reshuffle"
+        android:id="@+id/action_reshuffle"
+        android:orderInCategory="100"/>
+
+    <item android:title="DES"
+        android:id="@+id/action_des"
+        android:orderInCategory="100"/>
+
+</menu>
